@@ -1,22 +1,20 @@
-# virustotal-api-commands
-virustotal commands
+#### virustotal api commands examples
 
-entity:url hostname:"api.telegram.org"
+>entity:url hostname:"api.telegram.org"
 
-behaviour:smtp.google.com
+>behaviour:smtp.google.com
 
-name:nordvpn gmail.com txt
+>name:nordvpn gmail.com txt
 
+>mercurial grabber
 
-mercurial grabber
+>lang:"turkish"
 
-lang:"turkish"
+>submitter:TR
 
-submitter:TR
+>fs:2018-01-01 T00:00:00+
 
-fs:2018-01-01 T00:00:00+
+>tag:powershell) ve makro içeren (tag:macros) 
 
-tag:powershell) ve makro içeren (tag:macros) 
-
-wallet.dat size:10MB+
+>wallet.dat size:10MB+
 
