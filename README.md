@@ -6,8 +6,6 @@
 
 >name:nordvpn gmail.com txt
 
->mercurial grabber
-
 >lang:"turkish"
 
 >submitter:TR
